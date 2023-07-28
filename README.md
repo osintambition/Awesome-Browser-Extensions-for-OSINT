@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 
 ## Browser Extensions for OSINT
 
-Chrome Extension -
+**Chrome Extension** -
 | Name |      | Description                | 
 | :-------- | :------- | :------------------------- | 
 |[Vortimo OSINT-tool](https://chrome.google.com/webstore/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)||Helps in getting more information about name, phone number, email, and many more. | 
