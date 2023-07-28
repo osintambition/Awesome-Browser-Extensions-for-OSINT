@@ -6,7 +6,9 @@ A collection of awesome browser extension useful for OSINT along with their use 
 ## Authors
 
 - [@osintambition](https://twitter.com/osintambition)
+  
 - [@dheerajydv19](https://www.twitter.com/dheerajydv19)
+
 - [@swayamsopnic](https://twitter.com/Swayamsopnic16)
 
 ### Contributors - 
