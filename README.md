@@ -70,13 +70,32 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[TinEye Reverse Image Search](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)|| Helpful in reverse image search and other features offered by Tineye| 
 |[Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)|| Helpful in reverse image search with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.| 
 |[PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd)|| Helpful in scanning images for exif metadata while browsing| 
+|[Distill](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US)|| Extension allows you to passively monitor changes on social pages.| 
+|[Visualping](https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd)|| A simple service for monitoring websites for changes.| 
+|[Fetcher](https://chrome.google.com/webstore/detail/fetcher/hcjoaaeflhldlbmadokknllgaagbonla/)|| Extension fetches from your favourite websites, and combines them into one| 
+|[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en-US)|| Allows you to quickly take a screenshot of a web page in full screen mode.| 
+|[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Helpful for taking screenshots and video recording web pages.| 
 |[]()||| 
 |[]()||| 
 |[]()||| 
 |[]()||| 
 |[]()||| 
+|[]()|||
 |[]()||| 
-
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
 
 
 
