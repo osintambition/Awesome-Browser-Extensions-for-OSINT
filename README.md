@@ -75,10 +75,36 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Fetcher](https://chrome.google.com/webstore/detail/fetcher/hcjoaaeflhldlbmadokknllgaagbonla/)|| Extension fetches from your favourite websites, and combines them into one| 
 |[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en-US)|| Allows you to quickly take a screenshot of a web page in full screen mode.| 
 |[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Helpful for taking screenshots and video recording web pages.| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
+|[Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj)|| Allows you to view an archived version of a web page.| 
+|[The Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)|| Extension of the Internet Archive| 
+|[Web Cache Viewer](https://chrome.google.com/webstore/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd)|| lets you right-click on any link or page to view the Wayback Machine or Google Cache versions of that page.| 
+|[Blockchain.info](https://chrome.google.com/webstore/detail/blockchaininfo-address-se/aipmpbhchlkopmpoaipbelfpniojcnkb)|| Helps to find info on bitcoin address.| 
+|[Blockchair](https://chrome.google.com/webstore/detail/blockchair/fhhkkooikehnkaodebbfnkinedlllcfk)|| Block explorer and anonymous crypto portfolio tracker for Bitcoin, Ethereum, and others in your browser.| 
+|[Breadcrumbs Blockchain Investigate](https://chrome.google.com/webstore/detail/breadcrumbs-blockchain-in/dlnalaneihafdkdcekejdekiclgdghka)|| Investigation tool to get more details on any Ethereum address’s activity.|
+|[Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)|| An automatic data scraping tool for any website.| 
+|[Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden)|| Extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets.| 
+|[Email extract](https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac)|| Helps in finding email addresses on the pages you visit.| 
+|[Hunter](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj)|| Extension to find an email address on any website with one click.| 
+|[MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod)|| Excellent file hosting service and a fairly secure messenger all rolled into one.|
+|[OSIRIS](https://chrome.google.com/webstore/detail/osiris-osint-reputation-i/jjdjccppehnjdennppcnlnaadcdlffdf)|| Extension for IoC reputation analysis.| 
+|[Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd)|| Extension to quickly and easily search for IP addresses, domains, file hashes and URLs using free resources.| 
+|[IP Address and Domain Information](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)|| The module displays detailed information about the current website.| 
+|[Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)|| This plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
+|[Pulsedive Threat Intelligence](https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp)|| Free analyst-centric threat intelligence platform that offers comprehensive.|
+|[Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg)|| Extension for searching IP, domain, URL, hash, etc. via the context menu.| 
+|[CrowdScrape](https://chrome.google.com/webstore/detail/crowdscrape/jjplaeklnlddpkbbdbnogmppffokemej)|| Plugin designed to allow you to be able to scrape indicators from various websites and in-browser documents such as PDF reports.| 
+|[ZoomEye Tools](https://chrome.google.com/webstore/detail/zoomeye-tools/bdoaeiibkccgkbjbmmmoemghacnkbklj)|| Plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
+|[FOFA Pro View](https://chrome.google.com/webstore/detail/fofa-pro-view/dobbfkjhgbkmmcooahlnllfopfmhcoln)|| Plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
+|[NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm/%7D)|| Allows you to run JavaScript, Flash, Java and other executable content only from trusted domains of your choice.|
+|[HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)|| Encrypts your communication with many major websites, making your web surfing more secure.| 
+|[Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb)|| Extension that changes your location to match your VPN.| 
+|[Vulners Web Scanner](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd)|| Vulnerability scanner based on the vulners.com vulnerability database. | 
+|[User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)|| Extension replaces the User-Agent on websites, which allows you to fake the digital fingerprint of the researcher’s device, pretending to be a smartphone or iPad.| 
+|[ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=en)|| Application for stripping tracking tags from URLs.| 
+|[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)|| Best app for blocking ads and trackers on the internet today.|
+|[AdNauseam](https://adnauseam.io/)|| An ad blocker.| 
+|[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)|| Quickly enable/disable Google Chrome extensions.| 
+|[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|| Google Chrome extensions manager.| 
 |[]()||| 
 |[]()|||
 |[]()||| 
@@ -91,12 +117,6 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[]()||| 
 |[]()||| 
 |[]()|||
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-
 
 
 
