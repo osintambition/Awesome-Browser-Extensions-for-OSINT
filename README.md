@@ -17,9 +17,9 @@ A collection of awesome browser extension useful for OSINT along with their use 
 
 ## Documentation
 
-[1. What are Google Chrome Extensions](#what-are-google-chrome-extensions )
+[1. What are Browser Extensions](#what-are-browser-extensions )
 
-[2. How to install a extension in Chrome](#how-to-install-a-extension-in-chrome )
+[2. How to install browser extension](#how-to-install-browser-extensions )
 
 [3. Browser Extensions for OSINT](#browser-extensions-for-osint )
 
@@ -27,21 +27,25 @@ A collection of awesome browser extension useful for OSINT along with their use 
 
 [5. FAQs](#faq )
 
-## What are Google Chrome Extensions?
+## What are Browser Extensions?
 
-It is a program that can be installed on chrome browser which can modify your experience or add functionality to the chrome browser. These are created with the help of HTML, CSS, JavaScript, etc.
+These are the programs that can be installed on a browser that can modify your experience or add functionality to the browser. These are created with the help of HTML, CSS, JavaScript, etc.
 
-## How to install a extension in Chrome
 
-1.     Open chrome web store website using the given link 
+## How to install browser extensions
+
+The below int the method for installing browser extensions in Chorme.
+1.     Open Chrome web store website using the given link 
        https://chrome.google.com/webstore/category/extensions
     
        Or
                                 
-       If you know the name/ link of the chrome extension, proceed to 3 directly.
+       If you know the name/ link of the Chrome extension, proceed to 3 directly.
 2.     Find the extension which you want to install using the search box or manually.
-3.     Click on “Add to chrome” , once the popup shows click on “add extension” and download will start automatically in a few seconds.
-4.     Click on the extension icon on the top right corner  above  google account profile icon and check if the download successfully
+3.     Click on “Add to Chrome”, once the popup shows click on “Add extension” and the download will start automatically in a few seconds.
+4.     Click on the extension icon in the top right corner  above  Google account profile icon and check if the download successfully
+
+The process is similar for all other browsers, also you can google for step by step tutorial.
 
 #### Video Tutorial
 
