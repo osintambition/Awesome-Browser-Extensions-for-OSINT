@@ -65,11 +65,11 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml)|| Helpful for searching OSINT information from some IOC in web page.(IP,Domain,URL,SNS...etc)| 
 |[Map Switcher](https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb?hl=en)|| Helpful in switching between different map services with a single click| 
 |[Magnifying Glass](https://chrome.google.com/webstore/detail/magnifying-glass/elhdjgjjmodgmhkokebhegekjooiaofm)|| Helpful in viewing a zoomed image within its radius, without disturbing the rest of the page.| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
+|[EXIF Viewer Pro](https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm)|| Helpful in quickly accessing exif data of any image you view.| 
+|[Fake news debunker by InVID & WeVerify](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en)|| Helpful for journalists, fact-checkers and human right defenders in fact-checking and debunking tasks on social networks.| 
+|[TinEye Reverse Image Search](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)|| Helpful in reverse image search and other features offered by Tineye| 
+|[Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)|| Helpful in reverse image search with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.| 
+|[PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd)|| Helpful in scanning images for exif metadata while browsing| 
 |[]()||| 
 |[]()||| 
 |[]()||| 
