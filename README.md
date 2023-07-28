@@ -54,12 +54,32 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 
 ## Browser Extensions for OSINT
 
+Chrome Extension -
+| Name |      | Description                | 
+| :-------- | :------- | :------------------------- | 
+|[Vortimo OSINT-tool](https://chrome.google.com/webstore/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)||Helps in getting more information about name, phone number, email, and many more. | 
+|[Hunchly 2.0](https://chrome.google.com/webstore/detail/hunchly-20/amfnegileeghgikpggcebehdepknalbf)|| Helps in capture and organize online data for your investigations.| 
+|[Selection Search](https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)|| Helps you in searching for the selected text in multiple search engines| 
+|[Email Tracker](https://chrome.google.com/webstore/detail/email-tracker/bnompdfnhdbgdaoanapncknhmckenfog)||Helps you in finding out if your email has been read| 
+|[Geotrack Email Tracking with Geolocation](https://chrome.google.com/webstore/detail/geotrack-email-tracking-w/ciajnfanflofkddjdanppgnlpkkdclln)|| Helps you in Email tracking with geolocation right in Gmail, with real-time statistics| 
+|[Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml)|| Helpful for searching OSINT information from some IOC in web page.(IP,Domain,URL,SNS...etc)| 
+|[Map Switcher](https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb?hl=en)|| Helpful in switching between different map services with a single click| 
+|[Magnifying Glass](https://chrome.google.com/webstore/detail/magnifying-glass/elhdjgjjmodgmhkokebhegekjooiaofm)|| Helpful in viewing a zoomed image within its radius, without disturbing the rest of the page.| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
 
-| Name |      | Description                |
-| :-------- | :------- | :------------------------- |
-|[fhjgh](vhjjh)||desc|
-|[]()|||
-|[]()|||
+
+
+
 
 ## Few Points to remember -
 - Whenever adding a new extension, always check the number of users using that extension, reviews and about the developer. As there are many extensions in the chrome web store which can be harmful and misuses your data.
