@@ -1,4 +1,3 @@
-
 # Awesome Browser Extensions for OSINT
 
 A collection of awesome browser extension useful for OSINT along with their use case.
@@ -127,16 +126,16 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[FireShot: Full Web Page Screenshots](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)|| Allows you to capture and save the visible part, a selected area of the page or the full web page, including parts that are not visible.|
 |[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|| Helps in enhancing security of the browser by blocking ads, trackers, and malware sites.| 
 |[DownThemAll!](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)|| Allows you to download all media, like videos and images, from a website and save them on your computer.| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-|[]()||| 
-|[]()|||
+|[ScrapBee](https://addons.mozilla.org/en-US/firefox/addon/scrapbee/)|| Allows you to save entire web pages for offline access and allowing them to organize for a good overview.| 
+|[Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)|| Allows you to conduct a reverse image search on multiple databases (like Google, Bing, Yandex, TinEye, SauceNAO, IQDB) at the same time by right-clicking on the image on the website.| 
+|[User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)|| Allows you to alter your user-agent string to indicate you’re on a different device.|
+|[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)|| Allow potentially malicious web content to run only from sites you trust.| 
+|[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)|| Allows to block invisible trackers automatically.| 
+|[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|| Allows you to control your cookies.| 
+|[Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan-addon/)|| Tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
+|[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
+|[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
+|[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
 |[]()||| 
 |[]()||| 
 |[]()||| 
