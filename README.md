@@ -119,6 +119,36 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[]()|||
 
 
+**Firefox Extensions**
+
+| Name |      | Description                | 
+| :-------- | :------- | :------------------------- | 
+|[Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)|| Allows you to open tabs which are completely isolated from each other and don't share the same cookies, session data, or other information.| 
+|[FireShot: Full Web Page Screenshots](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)|| Allows you to capture and save the visible part, a selected area of the page or the full web page, including parts that are not visible.|
+|[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|| Helps in enhancing security of the browser by blocking ads, trackers, and malware sites.| 
+|[DownThemAll!](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)|| Allows you to download all media, like videos and images, from a website and save them on your computer.| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()||| 
+|[]()|||
+
+
 
 ## Few Points to remember -
 - Whenever adding a new extension, always check the number of users using that extension, reviews and about the developer. As there are many extensions in the chrome web store which can be harmful and misuses your data.
