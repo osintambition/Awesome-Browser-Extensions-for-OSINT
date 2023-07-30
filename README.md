@@ -116,10 +116,20 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd)|| quickly and easily search IPs, Domains, File Hashes, and URLs| 
 |[Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)|| for accessing articles that are available elsewhere for free.| 
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
+|[Scan WP - WordPress Theme and Plugin Detector](https://chrome.google.com/webstore/detail/scan-wp-wordpress-theme-a/jgepgcdhakjacecafilmhdnifekocmcl)|| Detects what theme and plugins are used in the Wordpress website| 
+|[Fake Profile Detector (Deepfake, GAN)](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc)|| Detects if that image contains a GAN generated or real person!|
+|[Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk)|| Take a screenshot of any YouTube video with one click.| 
+|[Canvas Fingerprint Defender](https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp)|| Lets you easily hide your real canvas fingerprint by reporting a random fake value.| 
+|[Chaff](https://chrome.google.com/webstore/detail/chaff/jgjhamliocfhehbocekgcddfjpgdjnje)|| Generate random web browsing traffic to obfuscate actual browsing behavior to avoid profiling through 3rd party observation.| 
+|[ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)|| Automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.| 
+|[Location Guard](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia)|| Hide your geographic location from websites.|
+|[Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)|| Protects you against tracking through "free", centralized, content delivery.| 
+|[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[]()|| | 
 |[]()|| |
 |[]()|| | 
 |[]()|| | 
+|[]()|| |
 |[]()|| | 
 |[]()|| | 
 |[]()|| |
