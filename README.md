@@ -105,6 +105,25 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)|| Quickly enable/disable Google Chrome extensions.| 
 |[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|| Google Chrome extensions manager.| 
 |[BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)|| Lets you find out what a website is built with by a simple click.| 
+|[Email extract](https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac)|| searches email addresses on pages you visit.|
+|[Ghostery – Privacy Ad Blocker](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)|| Block ads, stop trackers and speed up websites.| 
+|[Hunter - Email Finder Extension](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj)|| Find email addresses from anywhere on the web, with just one click.|
+|[Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)|| Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files| 
+|[IP Address and Domain Information](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)||  See detailed information about every IP Address, Domain Name and Provider.| 
+|[Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg?hl=en)|| extension for searching IP, domain, URL, hash, etc. via the context menu.| 
+|[Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)|| The easiest, fastest way to capture articles, videos, and more.| 
+|[Simplescraper — a fast and free web scraper](https://chrome.google.com/webstore/detail/simplescraper-%E2%80%94-a-fast-an/lnddbhdmiciimpkbilgpklcglkdegdkg)|| Scrape website data and table data in seconds|
+|[Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd)|| quickly and easily search IPs, Domains, File Hashes, and URLs| 
+|[Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)|| for accessing articles that are available elsewhere for free.| 
+|[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
+|[]()|| | 
+|[]()|| |
+|[]()|| | 
+|[]()|| | 
+|[]()|| | 
+|[]()|| | 
+|[]()|| |
+
 
 
 **Firefox Extensions**
