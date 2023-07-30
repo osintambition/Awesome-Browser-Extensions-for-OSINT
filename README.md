@@ -132,10 +132,19 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[TT Downloader](https://chrome.google.com/webstore/detail/tt-downloader/blbckhiepgpniilpmlionnkjoeehhgao?hl=en-GB)|| Download Tik tok Videos and Mass Downloads|
 |[Video Downloader Plus](https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)|| The fastest and easiest way to download any video from any website.| 
 |[Uniform Timezone Extension](https://chrome.google.com/webstore/detail/uniform-timezone-extensio/fhpdgikedeljapdckiegnjiendkhphlg)|| Brings standardization to social media posts' dates and times.| 
+|[Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)|| Lets you open, copy or bookmark multiple links at the same time.| 
+|[OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj)|| Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents.| 
+|[Link Gopher](https://chrome.google.com/webstore/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf)|| Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.|
+|[Page Monitor](https://chrome.google.com/webstore/detail/page-monitor/ogeebjpdeabhncjpfhgdibjajcajepgg)|| Stays in the background and monitors web pages for changes.| 
+|[Pulsedive Threat Intelligence](https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp)|| Highlight IPs, domains, and URLs on any website to enrich them using Pulsedive's free threat intelligence data set.| 
+|[Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof)|| Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.|
+|[ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|| Add threat intelligence hover tool tips. IPv4, MD5, SHA2, CVE, FQDN or add your own ThreatIntel IOC. Use any REST API.|
+|[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
+|[]()|| | 
+|[]()|| |
 |[]()|| | 
 |[]()|| | 
 |[]()|| |
-
 
 
 **Firefox Extensions**
