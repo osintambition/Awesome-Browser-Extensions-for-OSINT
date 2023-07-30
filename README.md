@@ -125,11 +125,13 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Location Guard](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia)|| Hide your geographic location from websites.|
 |[Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)|| Protects you against tracking through "free", centralized, content delivery.| 
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
-|[]()|| | 
-|[]()|| |
-|[]()|| | 
-|[]()|| | 
-|[]()|| |
+|[Image Downloader - Save photos and pictures](https://chrome.google.com/webstore/detail/image-downloader-save-pho/lbohagbplppjcpllnhdichjldhfgkicb)|| Find, choose and download images you need from any web pages or select all to bulk image download.| 
+|[L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand)|| collection of tools to help Facebook users with a downloading content and analysis.|
+|[Return YouTube Comment Username](https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj)|| Replaces the "handle" in the YouTube comments section to user name| 
+|[TikNote: Video Downloader and Saver](https://chrome.google.com/webstore/detail/tiknote-video-downloader/jilgamolkonoalagcpgjjijaclacillb)|| Download TikTok™ videos without watermark.| 
+|[TT Downloader](https://chrome.google.com/webstore/detail/tt-downloader/blbckhiepgpniilpmlionnkjoeehhgao?hl=en-GB)|| Download Tik tok Videos and Mass Downloads|
+|[Video Downloader Plus](https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)|| The fastest and easiest way to download any video from any website.| 
+|[Uniform Timezone Extension](https://chrome.google.com/webstore/detail/uniform-timezone-extensio/fhpdgikedeljapdckiegnjiendkhphlg)|| Brings standardization to social media posts' dates and times.| 
 |[]()|| | 
 |[]()|| | 
 |[]()|| |
