@@ -140,11 +140,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof)|| Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.|
 |[ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|| Add threat intelligence hover tool tips. IPv4, MD5, SHA2, CVE, FQDN or add your own ThreatIntel IOC. Use any REST API.|
 |[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
-|[]()|| | 
-|[]()|| |
-|[]()|| | 
-|[]()|| | 
-|[]()|| |
+|[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
 
 
 **Firefox Extensions**
@@ -165,17 +161,6 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-
 
 
 ## Few Points to remember -
