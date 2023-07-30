@@ -105,17 +105,6 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)|| Quickly enable/disable Google Chrome extensions.| 
 |[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|| Google Chrome extensions manager.| 
 |[BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)|| Lets you find out what a website is built with by a simple click.| 
-|[]()|||
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()||| 
-|[]()|||
 
 
 **Firefox Extensions**
