@@ -10,10 +10,12 @@ A collection of awesome browser extension useful for OSINT along with their use 
 
 - [@swayamsopnic](https://twitter.com/Swayamsopnic16)
 
+
 ### Contributors - 
 
 - [@0xhawk17](https://twitter.com/0xhawk17)
-
+- [@deFr0ggy](https://twitter.com/deFr0ggy)
+  
 ## Documentation
 
 [1. What are Browser Extensions](#what-are-browser-extensions )
@@ -141,7 +143,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[ThreatPinch Lookup](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|| Add threat intelligence hover tool tips. IPv4, MD5, SHA2, CVE, FQDN or add your own ThreatIntel IOC. Use any REST API.|
 |[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
 |[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
-
+|[FOCA Files Finder](https://chrome.google.com/webstore/detail/foca-files-finder/mhobefinhafbleanihidiifaedcceoij)|| Scans for available files for a website and provide with the download link for analyzing locally.
 
 **Firefox Extensions**
 
