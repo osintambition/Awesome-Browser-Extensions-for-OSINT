@@ -3,7 +3,7 @@
 A collection of awesome browser extension useful for OSINT along with their use case.
 
 ## Essential Osint Updates Delivered to Your Inbox
-Join our newsletter today - https://newsletter.osintambition.org/
+Join our newsletter today - https://osintupdates.com/
 
 ## Authors
 
