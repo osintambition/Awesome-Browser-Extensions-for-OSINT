@@ -2,11 +2,14 @@
 
 A collection of awesome browser extension useful for OSINT along with their use case.
 
-## Essential Osint Updates Delivered to Your Inbox
-Join our newsletter today - https://osintupdates.com/
+## Some of our useful products for OSINT loves -
+Free weekly OSINT Newsletter - [osintupdates.com](https://osintupdates.com)
 
-## Best OSINT Tools Directory
-Checkout Next-gen OSINT tools directory - https://osinttools.io/
+Learn OSINT from Experts - [osintteam.com](https://osintteam.com)
+
+Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
+
+Free OSINT eBook's and Guides - [osintambition.org](https://osinttools.io)
 
 ## Authors
 
