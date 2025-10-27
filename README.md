@@ -110,6 +110,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)|| Encrypts your communication with many major websites, making your web surfing more secure.| 
 |[Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb)|| Extension that changes your location to match your VPN.| 
 |[Vulners Web Scanner](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd)|| Vulnerability scanner based on the vulners.com vulnerability database. | 
+|[Vulert](https://vulert.com/)|| Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 |[User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)|| Extension replaces the User-Agent on websites, which allows you to fake the digital fingerprint of the researcher’s device, pretending to be a smartphone or iPad.| 
 |[ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=en)|| Application for stripping tracking tags from URLs.| 
 |[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)|| Best app for blocking ads and trackers on the internet today.|
