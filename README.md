@@ -81,6 +81,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[TinEye Reverse Image Search](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)|| Helpful in reverse image search and other features offered by Tineye| 
 |[Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)|| Helpful in reverse image search with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.| 
 |[PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd)|| Helpful in scanning images for exif metadata while browsing| 
+|[Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle)|| Helpful for scanning web images, videos, and audio for AI-generated or manipulated media with verdicts and confidence scores.| 
 |[Distill](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US)|| Extension allows you to passively monitor changes on social pages.| 
 |[Visualping](https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd)|| A simple service for monitoring websites for changes.| 
 |[Fetcher](https://chrome.google.com/webstore/detail/fetcher/hcjoaaeflhldlbmadokknllgaagbonla/)|| Extension fetches from your favourite websites, and combines them into one| 
