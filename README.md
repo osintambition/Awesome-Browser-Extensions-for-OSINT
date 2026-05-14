@@ -64,7 +64,8 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 
 ## Browser Extensions for OSINT
 
-**Chrome Extension** -
+**Chrome Extensions**
+
 | Name |      | Description                |
 | :-------- | :------- | :------------------------- |
 |[Ubikron](https://www.ubikron.com/)||Chrome extension that speaks to a server (in the cloud or in your server room) and keeps track of sites you’ve browsed to. It saves screenshots of the sites as well as all the body text. |
@@ -178,7 +179,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.|
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
 
-## Credits -
+## Credits
 - [OSINT Browser Extension](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [Useful chrome browser extension for OSINT](https://medium.com/@ibederov_en/useful-chrome-browser-extensions-7d520d06798d)
 
