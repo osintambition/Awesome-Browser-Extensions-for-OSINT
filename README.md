@@ -88,6 +88,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en-US)|| Allows you to quickly take a screenshot of a web page in full screen mode.| 
 |[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Helpful for taking screenshots and video recording web pages.| 
 |[Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj)|| Allows you to view an archived version of a web page.| 
+|[PastPage](https://chromewebstore.google.com/detail/pastpage-query-10+-web-ar/icpegbecignmplpkjjcegmjmfadpcpoo)|| Helps recover broken or changed pages by querying the Wayback Machine and other web archives in parallel.|
 |[The Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)|| Extension of the Internet Archive| 
 |[Web Cache Viewer](https://chrome.google.com/webstore/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd)|| lets you right-click on any link or page to view the Wayback Machine or Google Cache versions of that page.| 
 |[Blockchain.info](https://chrome.google.com/webstore/detail/blockchaininfo-address-se/aipmpbhchlkopmpoaipbelfpniojcnkb)|| Helps to find info on bitcoin address.| 
@@ -173,6 +174,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Shodan](https://addons.mozilla.org/en-US/firefox/addon/shodan-addon/)|| Tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
+|[PastPage](https://addons.mozilla.org/en-US/firefox/addon/pastpage-query-10-web-archives/)|| Helps recover broken or changed pages by querying the Wayback Machine and other web archives in parallel.|
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
 
 ## Credits -
