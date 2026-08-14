@@ -174,6 +174,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. | Yes |
 
 ## Credits -
 - [OSINT Browser Extension](https://github.com/cqcore/OSINT-Browser-Extensions)
