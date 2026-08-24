@@ -174,6 +174,8 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
+|[YouTube Transcript by Summarizer.tube](https://chromewebstore.google.com/detail/cemgnplbpjphbpknflpmjhmjhaheiane)|| Pulls the full transcript of a YouTube video, including auto-generated captions, and exports it as TXT, SRT, VTT or Markdown for keyword searching and archiving.| 
+|[YouTube Comment Search by Summarizer.tube](https://chromewebstore.google.com/detail/iggebnnaeajeepbkiflohojdlippnicp)|| Loads every comment on a video (not just the first page) and searches them by keyword or by author — useful when a single comment is the lead.| 
 
 ## Credits -
 - [OSINT Browser Extension](https://github.com/cqcore/OSINT-Browser-Extensions)
