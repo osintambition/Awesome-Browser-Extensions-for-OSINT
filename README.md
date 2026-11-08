@@ -104,6 +104,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)|| This plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
 |[Pulsedive Threat Intelligence](https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp)|| Free analyst-centric threat intelligence platform that offers comprehensive.|
 |[Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg)|| Extension for searching IP, domain, URL, hash, etc. via the context menu.| 
+|[VPNDetection: IP address lookup](https://chromewebstore.google.com/detail/vpndetection-ip-address-l/kfljannoobgfmbcjobeionephndlnhgi)|| Select an IP on any page to see if it's a VPN, proxy, Tor exit or hosting address.| 
 |[CrowdScrape](https://chrome.google.com/webstore/detail/crowdscrape/jjplaeklnlddpkbbdbnogmppffokemej)|| Plugin designed to allow you to be able to scrape indicators from various websites and in-browser documents such as PDF reports.| 
 |[ZoomEye Tools](https://chrome.google.com/webstore/detail/zoomeye-tools/bdoaeiibkccgkbjbmmmoemghacnkbklj)|| Plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
 |[FOFA Pro View](https://chrome.google.com/webstore/detail/fofa-pro-view/dobbfkjhgbkmmcooahlnllfopfmhcoln)|| Plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.| 
