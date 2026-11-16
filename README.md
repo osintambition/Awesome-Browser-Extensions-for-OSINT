@@ -155,6 +155,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
 |[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
 |[FOCA Files Finder](https://chrome.google.com/webstore/detail/foca-files-finder/mhobefinhafbleanihidiifaedcceoij)|| Scans for available files for a website and provide with the download link for analyzing locally.
+|[iFollowTracker](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh)||Helpful for researching public Instagram profiles (recent follows, follower lists, and unfollow changes) without an Instagram login.|
 
 **Firefox Extensions**
 
