@@ -175,6 +175,12 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
 
+**Web Tools** (run in the browser, no extension needed)
+
+| Name |      | Description                | 
+| :-------- | :------- | :------------------------- | 
+|[1Lookup](https://www.1lookup.io/tools/reverse-phone-lookup)|| Free reverse phone and reverse email lookups, plus a number's carrier, line type and HLR status.| 
+
 ## Credits -
 - [OSINT Browser Extension](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [Useful chrome browser extension for OSINT](https://medium.com/@ibederov_en/useful-chrome-browser-extensions-7d520d06798d)
