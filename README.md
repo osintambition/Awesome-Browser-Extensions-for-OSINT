@@ -9,7 +9,7 @@ Learn OSINT from Experts - [osintteam.com](https://osintteam.com)
 
 Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
 
-Free OSINT eBook's and Guides - [osintambition.org](https://osinttools.io)
+Free OSINT eBook's and Guides - [osintambition.org](https://osintambition.org)
 
 ## Authors
 
