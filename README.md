@@ -95,6 +95,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Breadcrumbs Blockchain Investigate](https://chrome.google.com/webstore/detail/breadcrumbs-blockchain-in/dlnalaneihafdkdcekejdekiclgdghka)|| Investigation tool to get more details on any Ethereum address’s activity.|
 |[Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)|| An automatic data scraping tool for any website.| 
 |[Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden)|| Extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets.| 
+|[Table to Excel by TidyKit](https://chromewebstore.google.com/detail/table-to-excel-by-tidykit/nigijjipcfdonpdhpfjiblofcbilohng)|| Copies HTML tables to spreadsheets or exports CSV and XLSX, with merged cells filled in. Table processing stays in the browser.|
 |[Email extract](https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac)|| Helps in finding email addresses on the pages you visit.| 
 |[Hunter](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj)|| Extension to find an email address on any website with one click.| 
 |[MEGA](https://chrome.google.com/webstore/detail/mega/bigefpfhnfcobdlfbedofhhaibnlghod)|| Excellent file hosting service and a fairly secure messenger all rolled into one.|
