@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Ubikron](https://www.ubikron.com/)||Chrome extension that speaks to a server (in the cloud or in your server room) and keeps track of sites you’ve browsed to. It saves screenshots of the sites as well as all the body text. |
 |[Vortimo OSINT-tool](https://chrome.google.com/webstore/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)||Helps in getting more information about name, phone number, email, and many more. | 
 |[Hunchly 2.0](https://chrome.google.com/webstore/detail/hunchly-20/amfnegileeghgikpggcebehdepknalbf)|| Helps in capture and organize online data for your investigations.| 
-|[Selection Search](https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)|| Helps you in searching for the selected text in multiple search engines| 
+|[Marshall Extensions](https://github.com/bad-antics/marshall-extensions)||OSINT & Security extensions for Marshall Browser - installable plugins for reconnaissance, security testing, and intelligence gathering.|
 |[Email Tracker](https://chrome.google.com/webstore/detail/email-tracker/bnompdfnhdbgdaoanapncknhmckenfog)||Helps you in finding out if your email has been read| 
 |[Geotrack Email Tracking with Geolocation](https://chrome.google.com/webstore/detail/geotrack-email-tracking-w/ciajnfanflofkddjdanppgnlpkkdclln)|| Helps you in Email tracking with geolocation right in Gmail, with real-time statistics| 
 |[Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml)|| Helpful for searching OSINT information from some IOC in web page.(IP,Domain,URL,SNS...etc)| 
