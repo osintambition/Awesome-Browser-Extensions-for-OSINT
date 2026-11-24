@@ -112,6 +112,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb)|| Extension that changes your location to match your VPN.| 
 |[Vulners Web Scanner](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd)|| Vulnerability scanner based on the vulners.com vulnerability database. | 
 |[User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)|| Extension replaces the User-Agent on websites, which allows you to fake the digital fingerprint of the researcher’s device, pretending to be a smartphone or iPad.| 
+|[Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)|| Switches between full browser identities (user agent, language, timezone, screen, hardware) so the researcher's real device and locale are not exposed, and shows which sites are fingerprinting you.|
 |[ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=en)|| Application for stripping tracking tags from URLs.| 
 |[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)|| Best app for blocking ads and trackers on the internet today.|
 |[AdNauseam](https://adnauseam.io/)|| An ad blocker.| 
@@ -167,6 +168,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[ScrapBee](https://addons.mozilla.org/en-US/firefox/addon/scrapbee/)|| Allows you to save entire web pages for offline access and allowing them to organize for a good overview.| 
 |[Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)|| Allows you to conduct a reverse image search on multiple databases (like Google, Bing, Yandex, TinEye, SauceNAO, IQDB) at the same time by right-clicking on the image on the website.| 
 |[User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)|| Allows you to alter your user-agent string to indicate you’re on a different device.|
+|[Spoof Me](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)|| Switches between full browser identities (user agent, language, timezone, screen, hardware) and shows which sites are fingerprinting you.|
 |[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)|| Allow potentially malicious web content to run only from sites you trust.| 
 |[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)|| Allows to block invisible trackers automatically.| 
 |[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|| Allows you to control your cookies.| 
