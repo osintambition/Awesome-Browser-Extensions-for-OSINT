@@ -9,6 +9,8 @@ Learn OSINT from Experts - [osintteam.com](https://osintteam.com)
 
 Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
 
+OSINT browser extensions, with store links and reviews - [osinttools.io/tools/browser-extensions](https://osinttools.io/tools/browser-extensions/)
+
 Free OSINT eBook's and Guides - [osintambition.org](https://osintambition.org)
 
 ## Authors
@@ -155,6 +157,19 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao)|| View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.| 
 |[Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)|| Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.| 
 |[FOCA Files Finder](https://chrome.google.com/webstore/detail/foca-files-finder/mhobefinhafbleanihidiifaedcceoij)|| Scans for available files for a website and provide with the download link for analyzing locally.
+|[SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)|| Saves a complete web page, with images and styles, as one HTML file you can keep as evidence.|
+|[ArchiveWeb.page](https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd)|| Records the pages you browse into high-fidelity web archives and exports them as WARC or WACZ files. By Webrecorder.|
+|[Forensic OSINT](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn)|| Captures web pages, social media posts and videos as hashed evidence, with PDF reports and case notes.|
+|[Archive Page](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia)|| Sends the current page or a link to archive.today to save it or look up existing snapshots.|
+|[RevEye Reverse Image Search](https://chromewebstore.google.com/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf)|| Right-click any image to search it on Google Lens, Bing, Yandex, TinEye or a custom engine.|
+|[Web Scraper](https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn)|| Point-and-click scraper that crawls multi-page and dynamic sites and exports the data to CSV or XLSX.|
+|[Bulk URL Opener](https://chromewebstore.google.com/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm)|| Opens a pasted list of URLs in tabs or windows, useful for checking many search results or profiles at once.|
+|[urlscan.io](https://chromewebstore.google.com/detail/urlscanio/loehkbkhflmmkempgkdpkkhghdiegicp)|| Official urlscan.io extension: submit the page or a link for a scan and look up earlier scans (needs an API key).|
+|[Censys](https://chromewebstore.google.com/detail/censys/cjcbocemonlaehhhpeaadmgakfofjlll)|| Looks up an IP address's open ports, services, location and WHOIS, and searches highlighted text in Censys.|
+|[VT4Browsers](https://chromewebstore.google.com/detail/vt4browsers-+-google-ti/efbjojhplkelaegfbieplglfidafgoka)|| VirusTotal's official extension: highlights IPs, domains, URLs and hashes on a page and shows their VirusTotal reports.|
+|[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)|| Identifies the CMS, frameworks, analytics and other technologies a website runs on.|
+|[Hiya Deepfake Voice Detector](https://chromewebstore.google.com/detail/hiya-deepfake-voice-detec/akmieeldmgcllmokbpaibfelofjiilpc)|| Samples audio playing in a browser tab and scores how likely the voice is to be AI-generated.|
+|[Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)|| Saves articles, pages and PDFs with their source details into a Zotero library for research notes and citations.|
 
 **Firefox Extensions**
 
@@ -174,6 +189,13 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Netcraft Extension](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|| Provides comprehensive site information and protection from phishing and malicious JavaScript when browsing the web|
 |[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|| Helpful in identifying technologies on websites.| 
 |[Wayback Machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)|| Allows to go back in time to see how a website has changed through the history of the Web.|
+|[SingleFile](https://addons.mozilla.org/en-US/firefox/addon/single-file/)|| Saves a complete web page as one HTML file.|
+|[Sputnik](https://addons.mozilla.org/en-US/firefox/addon/sputnik-osint/)|| Sends a selected IP, domain, hash or URL to free OSINT and threat intelligence lookup sites.|
+|[xIFr](https://addons.mozilla.org/en-US/firefox/addon/xifr/)|| Shows the EXIF, IPTC and XMP metadata of images on web pages, including GPS location.|
+|[Archive Page](https://addons.mozilla.org/en-US/firefox/addon/archive-page/)|| Sends the current page or a link to archive.today to save it or look up snapshots.|
+|[urlscan.io](https://addons.mozilla.org/en-US/firefox/addon/urlscan-io/)|| Submits pages to urlscan.io and looks up earlier scans.|
+|[Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)|| Extracts all links from a page, removes duplicates and lists them for copying.|
+|[Web Scraper](https://addons.mozilla.org/en-US/firefox/addon/web-scraper/)|| Point-and-click scraper that exports site data to CSV or XLSX.|
 
 **Web Tools** (run in the browser, no extension needed)
 
