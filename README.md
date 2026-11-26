@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Vortimo OSINT-tool](https://chrome.google.com/webstore/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)||Helps in getting more information about name, phone number, email, and many more. | 
 |[Hunchly 2.0](https://chrome.google.com/webstore/detail/hunchly-20/amfnegileeghgikpggcebehdepknalbf)|| Helps in capture and organize online data for your investigations.| 
 |[Selection Search](https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)|| Helps you in searching for the selected text in multiple search engines| 
+|[Sourcepick](https://chromewebstore.google.com/detail/sourcepick/kifmhnidecbnbidbhdooofggbekanjhc)|| Builds site: filters for Google, Bing, DuckDuckGo and Brave from 69 groups of sources (forums, Reddit, docs, papers, Q&A), trimmed to each engine's operator limit.|
 |[Email Tracker](https://chrome.google.com/webstore/detail/email-tracker/bnompdfnhdbgdaoanapncknhmckenfog)||Helps you in finding out if your email has been read| 
 |[Geotrack Email Tracking with Geolocation](https://chrome.google.com/webstore/detail/geotrack-email-tracking-w/ciajnfanflofkddjdanppgnlpkkdclln)|| Helps you in Email tracking with geolocation right in Gmail, with real-time statistics| 
 |[Gotanda](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml)|| Helpful for searching OSINT information from some IOC in web page.(IP,Domain,URL,SNS...etc)| 
