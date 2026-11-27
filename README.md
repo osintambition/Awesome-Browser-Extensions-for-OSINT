@@ -243,6 +243,8 @@ You can contact us any time on any of our social media platforms for any kind of
 
 Official Mail - osintambition@gmail.com
 
+Blog - [https://osintblogs.com](https://osintblogs.com) — free OSINT guides and investigation tutorials
+
 GitHub - [https://github.com/osintambition](https://github.com/osintambition)
 
 Twitter - [https://twitter.com/osintambition](https://twitter.com/osintambition)
