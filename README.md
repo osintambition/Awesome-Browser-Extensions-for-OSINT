@@ -3,6 +3,8 @@
 A collection of awesome browser extension useful for OSINT along with their use case.
 
 ## Some of our useful products for OSINT loves -
+
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 Free weekly OSINT Newsletter - [osintupdates.com](https://osintupdates.com)
 
 Learn OSINT from Experts - [osintteam.com](https://osintteam.com)
