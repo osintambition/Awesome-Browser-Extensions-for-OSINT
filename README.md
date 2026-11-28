@@ -170,6 +170,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)|| Identifies the CMS, frameworks, analytics and other technologies a website runs on.|
 |[Hiya Deepfake Voice Detector](https://chromewebstore.google.com/detail/hiya-deepfake-voice-detec/akmieeldmgcllmokbpaibfelofjiilpc)|| Samples audio playing in a browser tab and scores how likely the voice is to be AI-generated.|
 |[Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)|| Saves articles, pages and PDFs with their source details into a Zotero library for research notes and citations.|
+|[List & Table Scraper](https://chromewebstore.google.com/detail/list-table-web-scraper-ex/jikilncomjfjaphhffkghehnackohggf)|| Finds the table or list on a page and exports it to CSV, Excel or JSON; follows Next pages (3 free, up to 500 with Pro).|
 
 **Firefox Extensions**
 
@@ -196,6 +197,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 |[urlscan.io](https://addons.mozilla.org/en-US/firefox/addon/urlscan-io/)|| Submits pages to urlscan.io and looks up earlier scans.|
 |[Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)|| Extracts all links from a page, removes duplicates and lists them for copying.|
 |[Web Scraper](https://addons.mozilla.org/en-US/firefox/addon/web-scraper/)|| Point-and-click scraper that exports site data to CSV or XLSX.|
+|[List & Table Scraper](https://addons.mozilla.org/firefox/addon/list-table-scraper/)|| Finds the table or list on a page and exports it to CSV, Excel or JSON; follows Next pages (3 free, up to 500 with Pro).|
 
 **Web Tools** (run in the browser, no extension needed)
 
